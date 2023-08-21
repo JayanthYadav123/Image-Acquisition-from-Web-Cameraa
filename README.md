@@ -117,20 +117,17 @@ cv2.destroyAllWindows()
 
 ### ii) Display the video
 
-<img width="479" alt="4Videos" src="https://github.com/JayanthYadav123/Image-Acquisition-from-Web-Cameraa/assets/94836154/8bde9684-7df8-40dc-83a9-2bb57cd72289">
-
+<img width="479" alt="Video" src="https://github.com/JayanthYadav123/Image-Acquisition-from-Web-Cameraa/assets/94836154/4c5b175e-9b66-4596-a2c3-7585920f4efd">
 
 
 ### iii) Display the video by resizing the window
 
-<img width="477" alt="Inverted" src="https://github.com/JayanthYadav123/Image-Acquisition-from-Web-Cameraa/assets/94836154/cd7700f3-306f-474b-87da-0778da210aa2">
-
-
+<img width="479" alt="4Videos" src="https://github.com/JayanthYadav123/Image-Acquisition-from-Web-Cameraa/assets/94836154/8bde9684-7df8-40dc-83a9-2bb57cd72289">
 
 
 ### iv) Rotate and display the video
 
-<img width="479" alt="Video" src="https://github.com/JayanthYadav123/Image-Acquisition-from-Web-Cameraa/assets/94836154/4c5b175e-9b66-4596-a2c3-7585920f4efd">
+<img width="477" alt="Inverted" src="https://github.com/JayanthYadav123/Image-Acquisition-from-Web-Cameraa/assets/94836154/cd7700f3-306f-474b-87da-0778da210aa2">
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
